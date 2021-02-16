@@ -15,5 +15,7 @@ public class Test1 {
     public void test4(){
         System.out.println("Running test 4");
     }
-
+    public void test5(){
+        System.out.println("Running test 5");
+    }
 }
